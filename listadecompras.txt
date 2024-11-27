@@ -4,4 +4,8 @@ Alface
 Tomate
 Cebola
 Queijo cremoso
+Ovos
+Farinha
+Oleo
+Vinagre
 
